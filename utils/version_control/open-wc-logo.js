@@ -11,7 +11,7 @@ export const openWcLogo = html`
   >
     <defs>
       <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-        <stop stop-color="#9B00FF" offset="0%"></stop>
+        <stop stop-color="#9B0000" offset="0%"></stop>
         <stop stop-color="#0077FF" offset="100%"></stop>
       </linearGradient>
     </defs>
